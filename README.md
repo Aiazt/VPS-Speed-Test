@@ -1,4 +1,6 @@
 # speedtest-x
+## **原项目部署没有问题，项目需要PHP环境下搭建部署，在静态网站上运行会出现获取不到本地IP的问题**
+
 ![GitHub Actions Build Status](https://img.shields.io/github/workflow/status/badapple9/speedtest-x/Build%20Docker%20Image) ![GitHub last commit](https://img.shields.io/github/last-commit/badapple9/speedtest-x) ![GitHub](https://img.shields.io/github/license/badapple9/speedtest-x)
 
 This project is an extension of [LibreSpeed](https://github.com/librespeed/speedtest), LibreSpeed is a pretty lightweight speedtest tool.
